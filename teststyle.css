@@ -1,0 +1,37 @@
+/*This is the test CSS page*/
+
+h1 {
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p {
+	
+	font-size: 200%;
+	text-align: left;
+	color: black;
+}
+
+img {
+	float: right;
+}
+
+body {
+	background-image: url("https://img.freepik.com/free-photo/cement-wall-floor-copy-space_53876-30237.jpg");
+	background-size: cover;
+}
+
+a {
+	font-size: 200%;
+	text-decoration: none;
+	color: blue;
+}
+div {
+	font-size: 50%;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
